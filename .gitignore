@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info
+.Python
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local

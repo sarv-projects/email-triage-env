@@ -1,0 +1,9 @@
+[START] task=easy env=email_triage_env model=Qwen/Qwen2.5-72B-Instruct
+[STEP] step=1 action=error reward=0.00 done=false error=Failed to connect to ws://127.0.0.1:7860/ws: [Errno 111] Connect call failed ('127.0.0.1', 7860)
+[END] success=false steps=1 score=0.00 rewards=0.00
+[START] task=medium env=email_triage_env model=Qwen/Qwen2.5-72B-Instruct
+[STEP] step=1 action=error reward=0.00 done=false error=Failed to connect to ws://127.0.0.1:7860/ws: [Errno 111] Connect call failed ('127.0.0.1', 7860)
+[END] success=false steps=1 score=0.00 rewards=0.00
+[START] task=hard env=email_triage_env model=Qwen/Qwen2.5-72B-Instruct
+[STEP] step=1 action=error reward=0.00 done=false error=Failed to connect to ws://127.0.0.1:7860/ws: [Errno 111] Connect call failed ('127.0.0.1', 7860)
+[END] success=false steps=1 score=0.00 rewards=0.00
